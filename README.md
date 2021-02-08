@@ -1,5 +1,10 @@
 # Megane2-CarPlay-Config
 Raspberry, Android, CarPlay config and files. 
+
+Src:  
+[Planète Renault](www.planeterenault.com/forum/carminat-navigation-informe-2-entree-video-vga-cni1-cni2-t45832.html)  
+[gps-carminat.com](www.gps-carminat.com/forum/viewtopic.php?f=5&t=1461&p=8512)  
+  
 ```
 
 Git
